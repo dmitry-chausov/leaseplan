@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>SuppliersMapController_city_is_empty</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error when Account Billing City is empty</shortDescription>
+        <value>Billing city can't be empty</value>
+    </labels>
+    <labels>
+        <fullName>SuppliersMapController_no_suppliers_in_the_city</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error when no Suppliers in the city</shortDescription>
+        <value>{0} city doesn't have any Suppliers</value>
+    </labels>
+    <labels>
+        <fullName>SuppliersMapController_no_supplier_access</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>User doesn't have access to Supplier object</shortDescription>
+        <value>You don't have access to Supplier object</value>
+    </labels>
+    <labels>
+        <fullName>suppliersMap_enter_supplier_name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Enter Supplier Name input label</shortDescription>
+        <value>Enter Supplier Name</value>
+    </labels>
+    <labels>
+        <fullName>suppliersMap_search</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Search button label</shortDescription>
+        <value>Search</value>
+    </labels>
+</CustomLabels>
